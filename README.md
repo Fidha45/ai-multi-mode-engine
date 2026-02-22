@@ -106,6 +106,24 @@ Website includes:
 - `Clear Chat` button
 - context-aware replies using recent conversation history
 
+## Screenshots and Demo
+
+Add your media files to `assets/screenshots/` and `assets/demo/` using the names below.
+Once added, they will render automatically on GitHub.
+
+### Web UI
+
+![Web UI Main](assets/screenshots/web-ui-main.png)
+![Web UI Login](assets/screenshots/web-ui-login.png)
+
+### CLI Demo
+
+![CLI Demo](assets/screenshots/cli-demo.png)
+
+### App Walkthrough (GIF)
+
+![App Walkthrough](assets/demo/app-walkthrough.gif)
+
 ## Website Authentication
 
 Enable login protection by setting:
